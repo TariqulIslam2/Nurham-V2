@@ -1,6 +1,6 @@
 # Nurham Ltd Company Profile Website
 
-## Live Link
+
 [View the live website here](https://nurham.com)
 
 ## Project Overview
